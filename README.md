@@ -7,7 +7,7 @@ Shared **Prettier config** for Dust Foundation projects.
 Install via npm:
 
 ```sh
-npm install --save-dev github:dustfoundation/prettier-config
+npm install --save-dev github:dustfoundation/prettier-config#v0.0.1
 ```
 
 ---
