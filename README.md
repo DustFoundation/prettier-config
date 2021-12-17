@@ -16,8 +16,6 @@ npm install --save-dev github:dustfoundation/prettier-config
 
 You can use config by extending it:
 
-```json
-{
-	"extends": "@dustfoundation/prettier-config"
-}
+```js
+module.exports = require('@dustfoundation/prettier-config');
 ```
