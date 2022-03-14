@@ -1,10 +1,12 @@
 {
   "name": "@dustfoundation/prettier-config",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Shared Prettier config for Dust Foundation projects",
   "repository": "https://github.com/DustFoundation/prettier-config",
   "main": ".prettierrc.json",
-  "files": [".prettierrc.json"],
+  "files": [
+    ".prettierrc.json"
+  ],
   "dependencies": {
     "prettier": "^2.5.1"
   },
