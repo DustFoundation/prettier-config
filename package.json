@@ -1,6 +1,6 @@
 {
   "name": "@dustfoundation/prettier-config",
-  "version": "2.5.0",
+  "version": "3.0.0",
   "description": "Node.js shared config for Prettier",
   "repository": "https://github.com/DustFoundation/prettier-config",
   "main": ".prettierrc.json",
